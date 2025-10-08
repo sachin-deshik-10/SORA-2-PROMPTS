@@ -2099,7 +2099,7 @@ Every prompt below is delivered in production-ready JSON. Swap out values inside
 
 
 
-## 9. Remix Matrix
+### 9. Remix Matrix
 
 Use this grid to cross-pollinate ideas. Pick one item from each column for instant variations.
 
@@ -2115,7 +2115,7 @@ Combine rows: e.g., "meditative + slow dolly inward + muted earth tones + natura
 
 ---
 
-## 10. Glossary of Sora 2 Terms
+### 10. Glossary of Sora 2 Terms
 
 - **Temporal Pinning** – Language that keeps character outfits and props locked between cuts.
 - **Motion Curve** – Descriptor for acceleration profile (e.g., "ease-in, whip-out").
@@ -2127,6 +2127,6 @@ Keep these references handy when communicating with collaborators.
 
 ---
 
-## 11. License
+### 11. License
 
 This playbook is shared under the Creative Commons Attribution-ShareAlike 4.0 International License. Remix it, credit **N.Sachin Deshik**, and link back to the [SORA-2-PROMPTS repository](https://github.com/sachin-deshik-10/SORA-2-PROMPTS) so the community can keep improving it.
